@@ -4818,3 +4818,6 @@ input.checkbox:checked:after {
 		font-size: 13px;
 	}
 }
+.videos{
+	width: 100%;
+}
